@@ -1,0 +1,22 @@
+ 
+   2 git
+   3 git init CheckpointAgosto-Kenia-Vilcapaza...
+   4 rm CheckpointAgosto-Kenia-Vilcapaza...
+   5 git add .
+   6 git remote add origin https://github.com/Kbri17/CheckpointAgosto-Kenia-Vilcapaza.git
+mi error
+
+   7 git init
+   8 git add .
+   9 git commit -m "Kenia Vilcapaza"
+  10 git remote add origin https://github.com/Kbri17/CheckpointAgosto-Kenia-Vilcapaza.git
+  11 git remote -v
+  12 git branch feature
+  13 git push master
+  14 git push -u origin master
+  15 git add .
+  16 git commit -m "Kenia Vilcapaza Feature"
+  17 git push origin feature
+     git add .
+     git commit -m "Kenia Vilcapaza dos"
+     git push origin master
